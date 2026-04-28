@@ -1,3 +1,20 @@
-# Javascript-Problems-
-This is a practice JavaScript folder which has very beginner JavaScript problems
-These problems are from the website https://www.programiz.com/javascript/examples and 1 or 2 problems are difficult as i am just a beginner but every problem is easy
+# JavaScript Problems 💻
+ 
+A collection of JavaScript problem solutions and practice exercises.
+ 
+## Contents
+- Algorithm challenges
+- DOM manipulation exercises
+- JavaScript fundamentals practice
+- Problem-solving exercises
+
+## Tech Stack
+- JavaScript (Vanilla)
+- HTML
+- CSS
+
+## Background
+A practice repository for strengthening JavaScript fundamentals. Problems solved as part of learning JavaScript before moving to React. Covers core concepts like arrays, objects, functions, loops, and DOM manipulation.
+ 
+## Live Demo
+[GitHub Repo](https://github.com/Vishal-subudhi/Javascript-Problems-)
